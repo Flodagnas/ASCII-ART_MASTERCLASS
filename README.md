@@ -23,7 +23,7 @@ $$``&&WW88&&88&&&&8888&&88WW88``$$
 @@@@@@BB````&&&&&&&&88""``BB@@BB$$
 $$@@$$$$$$$$``````````@@$$@@$$$$$$
 ```
-This project should handle an input with numbers, letters, spaces, special characters and **\n.**     
+This project should handle an input with numbers, letters, spaces, special characters and ```\n.```     
 Take a look at the ASCII manual.
 ## Instructions
 Your project must be written in Go.

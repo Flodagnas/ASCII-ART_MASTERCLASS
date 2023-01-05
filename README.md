@@ -26,16 +26,16 @@ $$@@$$$$$$$$``````````@@$$@@$$$$$$
 This project should handle an input with numbers, letters, spaces, special characters and ```\n.```            
 Take a look at the ASCII manual.        
 ## Instructions          
-Your project must be written in Go.
+Your project must be written in **Go**.
           
-The code must respect the good practices.
+The code must respect the [good practices](https://ytrack.learn.ynov.com/git/root/public/src/branch/master/subjects/good-practices/README.md).
           
-It is recommended to have test files for unit testing.
+It is recommended to have test files for [unit testing](https://go.dev/doc/tutorial/add-a-test).
           
 Some banner files with a specific graphical template representation using ASCII will be given. The files are formatted in a way that is not necessary to change them.          
-- shadow         
-- standard            
-- thinkertoy               
+- [shadow](https://ytrack.learn.ynov.com/git/root/public/src/branch/master/subjects/ascii-art/shadow.txt)         
+- [standard](https://ytrack.learn.ynov.com/git/root/public/src/branch/master/subjects/ascii-art/standard.txt)            
+- [thinkertoy](https://ytrack.learn.ynov.com/git/root/public/src/branch/master/subjects/ascii-art/thinkertoy.txt)               
 ## Banner Format              
 Each character has a height of 8 lines.           
 Characters are separated by a new line ```\n```.            

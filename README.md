@@ -1,9 +1,9 @@
 # ASCII-ART_MASTERCLASS
 
 ## Objectives
-Ascii-art is a program which consists in receiving a **string** as an argument and outputting the **string** in a graphic representation using ASCII. Time to write big.
-
-What we mean by a graphic representation using ASCII, is to write the **string** received using ASCII characters, as you can see in the example below:
+Ascii-art is a program which consists in receiving a **string** as an argument and outputting the **string** in a graphic representation using ASCII. Time to write big.    
+     
+What we mean by a graphic representation using ASCII, is to write the **string** received using ASCII characters, as you can see in the example below:    
 ```
 @@@@@@BB@@@@``^^``^^``@@BB$$@@BB$$
 @@%%$$$$^^^^WW&&8888&&^^""BBBB@@@@
@@ -23,7 +23,7 @@ $$``&&WW88&&88&&&&8888&&88WW88``$$
 @@@@@@BB````&&&&&&&&88""``BB@@BB$$
 $$@@$$$$$$$$``````````@@$$@@$$$$$$
 ```
-This project should handle an input with numbers, letters, spaces, special characters and ||\n.||
+This project should handle an input with numbers, letters, spaces, special characters and **\n.**     
 Take a look at the ASCII manual.
 ## Instructions
 Your project must be written in Go.

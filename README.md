@@ -1,9 +1,9 @@
 # ASCII-ART_MASTERCLASS
 
-##Objectives
-Ascii-art is a program which consists in receiving a string as an argument and outputting the string in a graphic representation using ASCII. Time to write big.
+## Objectives
+Ascii-art is a program which consists in receiving a **string** as an argument and outputting the **string** in a graphic representation using ASCII. Time to write big.
 
-What we mean by a graphic representation using ASCII, is to write the string received using ASCII characters, as you can see in the example below:
+What we mean by a graphic representation using ASCII, is to write the **string** received using ASCII characters, as you can see in the example below:
 ```
 @@@@@@BB@@@@``^^``^^``@@BB$$@@BB$$
 @@%%$$$$^^^^WW&&8888&&^^""BBBB@@@@
@@ -23,9 +23,9 @@ $$``&&WW88&&88&&&&8888&&88WW88``$$
 @@@@@@BB````&&&&&&&&88""``BB@@BB$$
 $$@@$$$$$$$$``````````@@$$@@$$$$$$
 ```
-This project should handle an input with numbers, letters, spaces, special characters and \n.
+This project should handle an input with numbers, letters, spaces, special characters and ||\n.||
 Take a look at the ASCII manual.
-##Instructions
+## Instructions
 Your project must be written in Go.
 
 The code must respect the good practices.
@@ -37,7 +37,7 @@ Some banner files with a specific graphical template representation using ASCII 
 shadow
 standard
 thinkertoy
-##Banner Format
+## Banner Format
 Each character has a height of 8 lines.
 Characters are separated by a new line \n.
 Here is an example of ' ', '!' and '"'(one dot represents one space) :
@@ -71,7 +71,7 @@ Here is an example of ' ', '!' and '"'(one dot represents one space) :
 ......
 
 ```
-##Usage
+## Usage
 ```
 student$ go run . "" | cat -e
 student$ go run . "\n" | cat -e

@@ -7,6 +7,7 @@ Lors de cet atelier nous allons utiliser Python et certaine de ces librairies. I
 - Librairie: Pandas &seaborn        
 Anaconda est un outil de navigation qui permet une gestion plus simplifier de votre environnement Python mais il pèse lourd.        
 Jupyter Notebook est un Ide pour python qui permet le lancement des taches une par une, ce qui donne une vision plus claire de l’avancée du projet.La librairie Pandas est une librairie d’analyse et extraction de donnée c’est l’une des plus utiliser pour le langage python. Tandis que Seaborn permet la réalisation de graphique plus esthétique.     
+        
 Pandas documentation:[https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)     
 
 Seaborn documentation:[https://seaborn.pydata.org/tutorial/introduction.html](https://seaborn.pydata.org/tutorial/introduction.html)        

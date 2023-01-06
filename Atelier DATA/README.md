@@ -3,7 +3,7 @@
 Lors de cet atelier nous allons utiliser Python et certaine de ces librairies.      
 Il faut donc s’assurer d’avoir Python.      
 Je vous conseille d’installer Anaconda pour faciliter l’utilisation de python et de ces librairies.       
-        
+
 **Outils conseiller:** 
 - Anaconda3
 - Jupyter Notebook
@@ -15,9 +15,9 @@ Jupyter Notebook est un Ide pour python qui permet le lancement des taches une p
 La librairie Pandas est une librairie d’analyse et extraction de donnée c’est l’une des plus utiliser pour le langage python.       
 Tandis que Seaborn permet la réalisation de graphique plus esthétique.     
 
-Pandas documentation:[https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)     
+Pandas documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)     
 
-Seaborn documentation:[https://seaborn.pydata.org/tutorial/introduction.html](https://seaborn.pydata.org/tutorial/introduction.html)        
+Seaborn documentation: [https://seaborn.pydata.org/tutorial/introduction.html](https://seaborn.pydata.org/tutorial/introduction.html)        
 
 ## Rendu
 << Nous avons enfin réussi sortir de l’orbite terrestre et de nous déplacer entre les astres. Votre objectif est démontré que la Terre se trouve bel et bien au centre de notre univers ou bien nous étions dans l’erreur. Essayer d’apporter des informations permettant à nos spécialistes de déterminer la position de la Terre >>       
